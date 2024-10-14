@@ -34,3 +34,4 @@ Shortcuts I would like to start using:
 ## Documentation
 
 You can find more information about the CLI commands we used in the labs here: [CLI commands](docs/cli.md)
+
